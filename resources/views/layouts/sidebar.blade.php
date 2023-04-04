@@ -5,7 +5,7 @@
         <div class="sidebar-brand-icon rotate-n-15">
             <i class="fas fa-laugh-wink"></i>
         </div>
-        <div class="sidebar-brand-text mx-2">Rahmat Hotel</div>
+        <div class="sidebar-brand-text mx-2">Ardhuy Hotel</div>
     </a>
 
     <!-- Divider -->
